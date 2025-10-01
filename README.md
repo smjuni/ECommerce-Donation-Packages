@@ -37,5 +37,3 @@ Causes Ranked by Revenue
 Causes Ranked by Number of Orders
 <img width="1127" height="520" alt="Order quantities by Cause" src="https://github.com/user-attachments/assets/41761250-b87c-4cc1-b076-6c59c0062879" />
 
-
-<img width="468" height="527" alt="image" src="https://github.com/user-attachments/assets/6c684c5c-9b11-4cfa-92d2-1e15eb0839ac" />
